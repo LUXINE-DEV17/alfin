@@ -1,0 +1,4 @@
+- git clone https://github.com/LUXINE-DEV17/alfin
+- cd alfin
+- git pull
+- python run.py
